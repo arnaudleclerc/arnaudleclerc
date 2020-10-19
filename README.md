@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm currently on parental leave, please forgive me if I'm not fast to react!
-
 Check out some of my repositories :
 
 - [ng-azure-maps](https://github.com/arnaudleclerc/ng-azure-maps) : An Angular wrapper around the Azure Maps Control
